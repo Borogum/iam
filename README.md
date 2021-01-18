@@ -6,4 +6,4 @@ Soy perfectamente consciente de que no todo el mundo tiene los conocimientos  ne
 
 Listado de trabajos realizados:
 
-- Insights About Myself (IAM): Bolsas de Plástico [notebook](Insights%20About%20Myself%20(IAM)%20Bolsas%20de%20Plástico.ipynb)/[html](Insights%20About%20Myself%20(IAM)%20Bolsas%20de%20Plástico.html).
+- Insights About Myself (IAM): Bolsas de Plástico. [[notebook](Insights%20About%20Myself%20(IAM)%20Bolsas%20de%20Plástico.ipynb)/[html](Insights%20About%20Myself%20(IAM)%20Bolsas%20de%20Plástico.html)]
